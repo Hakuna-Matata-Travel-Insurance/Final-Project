@@ -1,4 +1,20 @@
-# Final-Project
+# *FINAL PROJECT - BY HAKUNA MATATA*
+
+![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/8d26534d-8dc6-4543-9c03-97bc82ab6b93)
+
+
+![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/87d434eb-ce5a-4bfd-b2d5-b45ba6d82297)
+
+
+
+
+
+
+
+
+
+
+
 #**Stage 1 - Hakuna Matata (Kelompok 5)**
 
 * Ahmad Faqih Ulumuddin
