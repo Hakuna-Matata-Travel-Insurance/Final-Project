@@ -1,6 +1,6 @@
 # *FINAL PROJECT - BY HAKUNA MATATA*
 
-![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/8d26534d-8dc6-4543-9c03-97bc82ab6b93)
+![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/3836e821-2943-42d2-9201-e0c8610c11b0)
 
 # *![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/923ed0dc-a958-4207-8e89-29d37948321a)*
 
@@ -12,7 +12,7 @@
 * Mutiara Citra Sari 
 * Nicken Shidqia Nurahman
 
-# *![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/a7309c38-8c48-4151-9397-bc5bf5b7408b)*
+# *![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/8a54baee-fff5-4f5d-9cc1-42f7e92a9c42)*
 * **Tools**
 
    ![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/5056b0b8-13d9-47a1-930c-8dd03d5786a3)
