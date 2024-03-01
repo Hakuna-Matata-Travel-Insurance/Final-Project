@@ -2,20 +2,7 @@
 
 ![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/8d26534d-8dc6-4543-9c03-97bc82ab6b93)
 
-
-![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/87d434eb-ce5a-4bfd-b2d5-b45ba6d82297)
-
-
-
-
-
-
-
-
-
-
-
-#**Stage 1 - Hakuna Matata (Kelompok 5)**
+# *![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/923ed0dc-a958-4207-8e89-29d37948321a)*
 
 * Ahmad Faqih Ulumuddin
 * Ana Azzahra
@@ -25,9 +12,54 @@
 * Mutiara Citra Sari 
 * Nicken Shidqia Nurahman
 
-**Dataset: [TravelInsurancePrediction.csv](https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data?resource=download)**
+# *![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/a7309c38-8c48-4151-9397-bc5bf5b7408b)*
+* **Tools**
 
-**GitHub: [Hakuna Matata](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project.git)**
+   ![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/5056b0b8-13d9-47a1-930c-8dd03d5786a3)
+
+* **Progaming Languange**
+
+  ![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/ee8a92b7-dea9-4f1d-8bb7-7249ec807764)
+
+* **Dataset**
+
+  [TravelInsurancePrediction.csv](https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data?resource=download)
+
+# *![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/75cf0d20-c59c-4de3-b6be-b18110ded21b)*
+Open in Google Collabs
+  (link)
+
+# *![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/e8cb52a3-4ae1-4074-a026-f2398848fe9f)*
+
+![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/314f0560-6c94-4a51-9765-fbda11a2ef29)
+
+(Paragraf)
+
+![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/5b10cd05-a9de-4cf5-8f2e-ed13dfb248d1)
+
+(Paragraf)
+
+  ![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/70088f40-ac1d-49e7-a233-f52a2351e0e5)
+  
+  (Paragraf)
+
+  ![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/71fa9e92-f010-4b5f-a8af-83a7084c2f0a)
+
+  (Paragraf)
+
+  # *![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/e342f36f-b666-43e6-8e4d-ad93c0c352b7)*
+
+  (ringkasan stage 1)
+
+  # *![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/b4a184b4-934f-4bc9-8937-0a745bd1d22b)*
+
+  (ringkasan stage 2)
+
+  # *![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/d027b7de-796e-40ae-a485-10f3425e8fa5)*
+
+  (Ringkasan Stage 3)
+
+
 
 ### **Descriptive Statistics Insight**
 
