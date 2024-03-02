@@ -58,6 +58,7 @@ Open in Google Collabs
   # *![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/d027b7de-796e-40ae-a485-10f3425e8fa5)*
 
   (Ringkasan Stage 3)
+# *![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/f68907a3-48bd-4bfa-90ae-70ee7679dfb3)*
 
 
 
