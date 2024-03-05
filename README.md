@@ -33,19 +33,22 @@ Open in Google Collabs
 
 ![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/314f0560-6c94-4a51-9765-fbda11a2ef29)
 
-(Paragraf)
+Sebuah perusahaan travel insurance menemukan fakta bahwa hanya 35.73% pelanggan yang membeli paket asuransi perjalanan mereka. Bagaimana cara untuk membantu team bisnis agar dapat menyasar pelanggan dengan tepat sehingga meningkatkan penjualan?
+
+Perusahaan belum mengenal lebih dalam pelanggannya dan strategi marketing yang selama ini dilakukan ditujukan untuk semua pelanggan. Hal ini mendorong tim kami memutuskan untuk membuat profil pelanggan untuk mengetahui karakteristik pelanggan perusahaan.
 
 ![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/5b10cd05-a9de-4cf5-8f2e-ed13dfb248d1)
 
-(Paragraf)
+Membuat segmentasi pelanggan agar dapat memberikan rekomendasi bisnis yang tepat kepada tim bisnis.
 
   ![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/70088f40-ac1d-49e7-a233-f52a2351e0e5)
   
-  (Paragraf)
+1. Membangun Unsupervised Machine Learning Model untuk mengklasifikasi para pelanggan berdasarkan karakteristik pelanggan dan perjalanan.
+2. Memberikan rekomendasi bisnis berdasarkan karakteristik pelanggan.
 
   ![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/71fa9e92-f010-4b5f-a8af-83a7084c2f0a)
 
-  (Paragraf)
+Conversion Rate: Persentase pelanggan terdaftar yang benar-benar membeli paket asuransi terbaru. Tingkat konversi yang rendah menunjukkan bahwa pengguna tidak cukup termotivasi untuk membeli asuransi. Hal ini menunjukkan bahwa strategi marketing tidak efektif.
 
   # *![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/e342f36f-b666-43e6-8e4d-ad93c0c352b7)*
 
