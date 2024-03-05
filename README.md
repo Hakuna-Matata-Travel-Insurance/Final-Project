@@ -56,8 +56,19 @@ Conversion Rate: Persentase pelanggan terdaftar yang benar-benar membeli paket a
 
   # *![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/b4a184b4-934f-4bc9-8937-0a745bd1d22b)*
 
-  (ringkasan stage 2)
+* Missing Values, Duplicated Data, and Ouliers
 
+  Tidak terdapat missing value, duplicate value, tetapi memiliki outliers dalam data.
+* Feature Encoding
+
+  Nilai dari kolom Employment Type, GraduateOrNot, FrequentFlyer, dan EverTravelledAbroad diubah menjadi 0 dan 1 menggunakan label encoding.
+* Class Imbalance
+
+  Jumlah pelanggan yang membeli paket asuransi jauh lebih sedikit dibandingkan pelanggan yang tidak membeli asuransi sehingga perlu dilakukan oversampling dengan metode SMOTE.
+* Featute Exreaction
+
+   setelah dicek korelasinya dengan target, hanya fitur ‘TravelExperience’ yang memiliki nilai korelasi lebih tinggi dari fitur-fitur yang sudah ada sebelumnya. Pada akhirnya, hanya fitur ‘TravelExperience’ yang digunakan untuk mengganti fitur lama ‘EverTravelledAbroad’ dan ‘FrequentFlyer
+* Feature Selection
   # *![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/d027b7de-796e-40ae-a485-10f3425e8fa5)*
 
   (Ringkasan Stage 3)
