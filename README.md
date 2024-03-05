@@ -56,10 +56,10 @@ Conversion Rate: Persentase pelanggan terdaftar yang benar-benar membeli paket a
 
   # *![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/b4a184b4-934f-4bc9-8937-0a745bd1d22b)*
 
-* Missing Values, Duplicated Data, and Ouliers
+* *Missing Values, Duplicated Data, and Ouliers*
 
   Tidak terdapat missing value, duplicate value, tetapi memiliki outliers dalam data.
-* Feature Encoding
+* *Feature Encoding*
 
   Nilai dari kolom Employment Type, GraduateOrNot, FrequentFlyer, dan EverTravelledAbroad diubah menjadi 0 dan 1 menggunakan label encoding.
 * Class Imbalance
@@ -69,6 +69,8 @@ Conversion Rate: Persentase pelanggan terdaftar yang benar-benar membeli paket a
 
    setelah dicek korelasinya dengan target, hanya fitur ‘TravelExperience’ yang memiliki nilai korelasi lebih tinggi dari fitur-fitur yang sudah ada sebelumnya. Pada akhirnya, hanya fitur ‘TravelExperience’ yang digunakan untuk mengganti fitur lama ‘EverTravelledAbroad’ dan ‘FrequentFlyer
 * Feature Selection
+
+  Awalnya, kami mencoba memilih 5 fitur saja dengan metode Recursive Feature Elimination (RFE) menggunakan model Logistic Regression. Kemudian kami mencoba memasukkan seluruh 8 fitur yang ada ke dalam algoritma dan mendapatkan bahwa semua fitur relevan. Dari hasil EDA sebelumnya juga ditemukan bahwa tidak ada fitur yang redundan. Karena jumlah fitur masih sedikit (kurang dari 10), kami memutuskan untuk memakai semua fitur dalam pemodelan, dengan tambahan fitur baru TravelExperience menggantikan FrequentFlyer & EverTravelledAbroad.
   # *![image](https://github.com/Hakuna-Matata-Travel-Insurance/Final-Project/assets/139318120/d027b7de-796e-40ae-a485-10f3425e8fa5)*
 
   (Ringkasan Stage 3)
